@@ -14,3 +14,7 @@ h1 {
 .clicked {
     color: #7f8c8d;
 }
+
+.form {
+    display: none;
+}
