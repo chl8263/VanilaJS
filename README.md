@@ -1,3 +1,3 @@
 # VanilaJS
 
-This repository is exercise vanilaJS.
+This repository is for vanilaJS exercises.
